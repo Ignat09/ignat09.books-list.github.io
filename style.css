@@ -1,0 +1,138 @@
+.header-area .main-nav .nav li:hover a {
+  color: #fff;
+  background-color: #efc1a2 !important;
+}
+
+.header-area .main-nav .nav li a.active {
+  color: #fff;
+  background-color: grey !important;
+}
+
+.btn-radius-angles {
+  border-radius: 20%;
+}
+
+.txt-black {
+  color: black !important;
+}
+
+body {
+  background-image: url(./images/main-bg.jpg) !important;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-x: 60%;
+}
+
+.main-banner,
+.currently-market {
+  background: none !important;
+}
+
+footer {
+  background: #88655d !important;
+}
+
+.main-button a {
+  border: none !important;
+}
+
+.main-button a button {
+  background-color: #a67b71;
+}
+
+.main-button a:hover {
+  background-color: #d6c4c0;
+  color: black;
+}
+
+.my-but {
+  background-color: #a67b71;
+  border: none;
+  /* margin-left: 15px;
+  margin-right: 15px; */
+}
+.my-but:hover {
+  background-color: #b19189;
+}
+
+.my-but-reg {
+  background-color: #ac8b84;
+  border: none;
+}
+.my-but-reg:hover {
+  background-color: #a08c87;
+}
+
+.main-banner .owl-nav .owl-prev span,
+.main-banner .owl-nav .owl-next span {
+  color: #fff;
+  background-color: #ac8b84;
+}
+
+.form-search-h {
+  color: #fff;
+}
+
+/* .see-button {
+  font-size: 14px;
+  color: #fff;
+  background-color: #a67b71;
+  border: none;
+  padding: 12px 30px;
+  display: inline-block;
+  border-radius: 25px;
+  font-weight: 500;
+  text-transform: capitalize;
+  letter-spacing: 0.5px;
+  transition: all 0.3s;
+  position: relative;
+  overflow: hidden;
+} */
+
+.just-input {
+  border: 1px solid #ced4da;
+  border-radius: 0.25rem;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+/* .cover-img {
+
+} */
+
+/* .head-text-catalog {
+  margin-top: 10%;
+} */
+
+.search {
+  margin-top: 10%;
+}
+
+.reg-status-txt {
+  padding-left: 20px;
+  padding-top: 20px;
+}
+
+/* .currently-market {
+  margin-left: 30%;
+} */
+
+.catalog-carousel .item img {
+  max-width: auto;
+  max-height: 500px;
+}
+
+/* .logo {
+  margin-right: 0;
+} */
+
+.currently-market .item {
+  /* background-color: #C79480;
+  border-color: #efc1a2; */
+  background: rgb(134, 103, 100);
+  background: linear-gradient(
+    90deg,
+    rgba(134, 103, 100, 1) 0%,
+    rgba(199, 148, 128, 1) 35%,
+    rgba(237, 175, 132, 1) 100%
+  );
+}
