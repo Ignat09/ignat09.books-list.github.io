@@ -157,8 +157,12 @@ function out_arr_search(array $arr_index = null)
             $arr_out[] = $str;
             $i++;
         }
-    }
+    } if ($arr_index == null) {
+        $arr_out = [];
+        $arr_out[] = "<h5>". "Ничего не найдено". "</h5>";
+    } elseif ($arr_index != null) {
     $arr_out[] = "</table>";
+    }
     return $arr_out;
 }
 
