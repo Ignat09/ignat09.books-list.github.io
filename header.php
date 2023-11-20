@@ -32,6 +32,7 @@ https://templatemo.com/tm-577-liberty-market
   </head>
 
 <body>
+    <div class="bg-blur">
 <?php
 include "db.php";
 include "action.php";

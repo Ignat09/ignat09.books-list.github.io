@@ -1,3 +1,4 @@
+</div>
 <div class="footer col-lg-12 col-sm-12">
   <footer class="footer">
     <div class="container, footer">
@@ -21,7 +22,6 @@
   <script src="assets/js/tabs.js"></script>
   <script src="assets/js/popup.js"></script>
   <script src="assets/js/custom.js"></script>
-
 </body>
 
 </html>

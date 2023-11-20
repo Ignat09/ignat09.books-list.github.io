@@ -47,19 +47,6 @@ include "header.php"
   </div>
       <?php
 include_once 'search.php';
-// if (isset($_POST['seeFormSearch'])) {
-//     include_once 'search.php';
-// }
-// if (isset($_POST['seeFormReg'])) {
-//     include_once 'search.php';
-// }
-// function printSearchForm()
-// {
-//     include "search.php";
-// }
-// if (isset($_POST['seeformsearch'])) {
-//     include "search.php";
-// }
 ?>
     </div>
   </div>
